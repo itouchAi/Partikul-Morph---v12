@@ -1,0 +1,8 @@
+{
+  "name": "Partikul Morfolojisi - Ekran koruyucu görseli v12",
+  "description": "Etkileşimli 3D partikül sistemi. Küre formundan metin formuna dönüşebilen, fizik tabanlı ve fare etkileşimli görsel şölen.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
